@@ -1,0 +1,7 @@
+
+body { font-family: Arial, sans-serif; margin: 0; background: #f4f6f8; }
+header { background: #0D47A1; color: white; text-align: center; padding: 50px; }
+header img { margin-bottom: 20px; }
+section { padding: 40px; max-width: 800px; margin: auto; }
+h2 { color: #00BFA6; }
+footer { text-align: center; padding: 20px; background: #111; color: white; }
